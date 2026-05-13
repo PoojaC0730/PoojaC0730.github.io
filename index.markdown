@@ -4,7 +4,7 @@ title: Home
 ---
 
 <section class="hero">
-    <p class="hero-eyebrow">AI Engineer · Pune, India</p>
+    <p class="hero-eyebrow">Data Science Consultant · Pune, India</p>
     <h1 class="hero-headline">Building AI that works<br><em>in the real world.</em></h1>
     <p class="hero-sub">I design and ship LLM pipelines, intelligent agents, and data systems that solve concrete problems — not just demos. 2+ years across consulting, product, and research.</p>
     <div class="hero-actions">
@@ -40,8 +40,8 @@ title: Home
         <a href="/projects/" class="featured-card">
             <div class="featured-card-inner">
                 <span class="featured-tag">Python · LangChain · Hugging Face · Streamlit</span>
-                <h3>AI-Powered Knowledge Base</h3>
-                <p>Document upload app where users can chat with their own content — semantic search via Hugging Face models, retrieval and prompt chaining via LangChain.</p>
+                <h3>Research Assistant AI Agent</h3>
+                <p>End-to-end academic research automation — retrieves papers from arXiv, processes them through a RAG pipeline, and generates structured literature reviews on demand. Cuts hours of manual reading into a repeatable, queryable workflow.</p>
                 <span class="featured-link">All projects →</span>
             </div>
         </a>
@@ -56,6 +56,6 @@ title: Home
     </div>
 </section>
 
-<section class="section section--quiet">
-    <p class="quiet-cta">Currently working at Emergys as an Associate Data Science Consultant. Open to interesting AI problems — <a href="mailto:pooja0798@gmail.com">pooja0798@gmail.com</a></p>
+<section class="section section--quiet" style="border-bottom: none;">
+    <p class="quiet-cta">Interested in collaborating on AI/ML, GenAI, or open-source projects? <a href="/contact/">Contact Me →</a></p>
 </section>

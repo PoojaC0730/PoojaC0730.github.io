@@ -13,7 +13,7 @@ permalink: /about/
 <section class="section">
     <h2 class="section-label">In Brief</h2>
     <div class="prose-block">
-        <p>I'm an AI Engineer with a background in data science and computer engineering. Over the past two years I've worked across consulting, product, and internship settings — building everything from document chatbots and recruitment assistants to defect detection models and multi-agent supplier systems.</p>
+        <p>I'm an Data Science Consultant cum AI Engineer with a background in data science and computer engineering. Over the past two years I've worked across consulting, product, and internship settings — building everything from document chatbots and recruitment assistants to defect detection models and multi-agent supplier systems.</p>
         <p>I'm most interested in the full stack of applied AI: understanding a messy problem, designing the right pipeline, picking the right model, and making the output actually usable. I hold an M.Tech in Data Science from MIT World Peace University (CGPA 9.60/10, 2nd rank holder) and a B.E. in Computer Engineering from A.D. Patel Institute of Technology.</p>
     </div>
 </section>
@@ -127,6 +127,6 @@ permalink: /about/
     </div>
 </section>
 
-<section class="section section--quiet">
-    <p class="quiet-cta">Feel free to reach out at <a href="mailto:pooja0798@gmail.com">pooja0798@gmail.com</a> or connect on <a href="https://linkedin.com/in/poojachaudhari" target="_blank">LinkedIn</a>.</p>
+<section class="section section--quiet" style="border-bottom: none;">
+    <p class="quiet-cta">Interested in collaborating on AI/ML, GenAI, or open-source projects? <a href="/contact/">Contact Me →</a></p>
 </section>

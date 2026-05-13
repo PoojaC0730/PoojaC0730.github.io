@@ -582,6 +582,42 @@ img { max-width: 100%; display: block; }
 }
 
 /* ============================================
+   CONNECT SECTION (Subtle)
+   ============================================ */
+.section--connect {
+    border-top: 1px solid var(--border);
+    padding: 3rem 4rem;
+}
+
+.connect-container {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+}
+
+.connect-item {
+    font-size: 0.9rem;
+    color: var(--text-muted);
+}
+
+.connect-link {
+    color: var(--accent);
+    font-weight: 500;
+    margin-left: 0.5rem;
+    border-bottom: 1px solid transparent;
+    transition: border-color var(--transition);
+}
+
+.connect-link:hover {
+    border-color: var(--accent);
+}
+
+.btn-sm {
+    padding: 0.45rem 1rem;
+    font-size: 0.8rem;
+}
+
+/* ============================================
    FOOTER
    ============================================ */
 footer {

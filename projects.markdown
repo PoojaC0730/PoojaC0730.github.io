@@ -134,6 +134,6 @@ permalink: /projects/
     </div>
 </section>
 
-<section class="section section--quiet">
-    <p class="quiet-cta">If any of this work is relevant to what you're building, I'd be happy to chat — <a href="mailto:pooja0798@gmail.com">pooja0798@gmail.com</a></p>
+<section class="section section--quiet" style="border-bottom: none;">
+    <p class="quiet-cta">Interested in collaborating on AI/ML, GenAI, or open-source projects? <a href="/contact/">Contact Me →</a></p>
 </section>
