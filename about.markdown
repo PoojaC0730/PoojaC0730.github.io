@@ -13,7 +13,7 @@ permalink: /about/
 <section class="section">
     <h2 class="section-label">In Brief</h2>
     <div class="prose-block">
-        <p>I'm an Data Science Consultant cum AI Engineer with a background in data science and computer engineering. Over the past two years I've worked across consulting, product, and internship settings — building everything from document chatbots and recruitment assistants to defect detection models and multi-agent supplier systems.</p>
+        <p>I'm an AI Engineer with a background in data science and computer engineering. Over the past 2.5+ years I've worked across consulting, product, and internship settings — building everything from document chatbots and recruitment assistants to defect detection models and multi-agent supplier systems.</p>
         <p>I'm most interested in the full stack of applied AI: understanding a messy problem, designing the right pipeline, picking the right model, and making the output actually usable. I hold an M.Tech in Data Science from MIT World Peace University (CGPA 9.60/10, 2nd rank holder) and a B.E. in Computer Engineering from A.D. Patel Institute of Technology.</p>
     </div>
 </section>
@@ -27,11 +27,12 @@ permalink: /about/
             <h3>Associate Data Science Consultant</h3>
             <p class="timeline-company">Emergys &nbsp;·&nbsp; Pune, MH</p>
             <ul class="timeline-bullets">
-                <li>Integrated Azure Bing grounding with AI agents to improve supplier discovery using real-time web data.</li>
-                <li>Designed a supplier data pipeline to extract, structure, and score supplier profiles, Q&amp;A, and metadata.</li>
-                <li>Developed evaluation methods for multi-agent workflows to improve output quality and consistency.</li>
-                <li>Built N-tier supplier mapping to identify supplier relationships across brands and products.</li>
-                <li>Built an LLM-based system to extract and validate cost models from Excel data using rule-based and model-based checks.</li>
+                <li>Integrated Azure Bing Grounding with AI agents to enable real-time supplier discovery and web-based retrieval.</li>
+                <li>Developed supplier intelligence pipelines to extract, qualify, score, and structure supplier information from multiple sources.</li>
+                <li>Built evaluation pipelines for LLM and multi-agent workflows using Azure AI Foundry with custom procurement-specific evaluation metrics.</li>
+                <li>Developed N-tier supplier mapping to identify supplier relationships across brands, products, and supply chains.</li>
+                <li>Contributed to a LangGraph-based SQL Query Agent for natural language to SQL translation using schema-aware retrieval.</li>
+                <li>Developed an LLM-powered solution to extract and validate should-cost models from Excel datasets.</li>
             </ul>
         </div>
 
@@ -40,11 +41,11 @@ permalink: /about/
             <h3>AI and ML Engineer &amp; Certified Bubble Developer</h3>
             <p class="timeline-company">AGILF(x) &nbsp;·&nbsp; Gandhinagar, GJ</p>
             <ul class="timeline-bullets">
-                <li>Improved marketing prospecting workflows using AI for lead generation and performance tracking.</li>
-                <li>Built a PDF chatbot for onboarding, enabling querying of internal documents via LLMs.</li>
-                <li>Developed an AI-based recruitment assistant to evaluate candidate conversations.</li>
-                <li>Created a health chatbot for symptom analysis and nearby doctor recommendations.</li>
-                <li>Built a regression-based model for pilot risk scoring in insurance use cases.</li>
+                <li>Improved marketing prospecting workflows by developing AI-driven lead scoring and marketing performance forecasting solutions.</li>
+                <li>Built a PDF-based chatbot using Retrieval-Augmented Generation (RAG) to enable natural language querying of onboarding and internal documentation.</li>
+                <li>Developed an AI-powered recruitment assistant to analyze and evaluate candidate conversations.</li>
+                <li>Built a hybrid symptom checker chatbot using rule-based NLP and machine learning for symptom analysis and nearby doctor recommendations.</li>
+                <li>Developed a regression-based machine learning model to predict pilot risk scores for insurance-related use cases.</li>
             </ul>
         </div>
 
@@ -53,8 +54,8 @@ permalink: /about/
             <h3>Data Science Intern</h3>
             <p class="timeline-company">Whirlpool Asia LLP &nbsp;·&nbsp; Pune, MH</p>
             <ul class="timeline-bullets">
-                <li>Developed a YOLOv5-based model to detect dents and scratches for product quality inspection.</li>
-                <li>Automated PDF-to-Excel data extraction, improving efficiency by ~3×.</li>
+                <li>Developed a YOLOv5-based model to detect dents and scratches for quality inspection.</li>
+                <li>Automated PDF-to-Excel data extraction, improving efficiency by ~3x.</li>
             </ul>
         </div>
 
@@ -74,36 +75,48 @@ permalink: /about/
             </div>
         </div>
         <div class="skill-group">
-            <h4>AI & ML</h4>
+            <h4>Tools &amp; Frameworks</h4>
             <div class="tag-list">
                 <span class="tag">LangChain</span>
+                <span class="tag">LangGraph</span>
+                <span class="tag">Flowise</span>
                 <span class="tag">Hugging Face</span>
                 <span class="tag">TensorFlow</span>
-                <span class="tag">YOLOv5</span>
                 <span class="tag">OpenCV</span>
-                <span class="tag">Flowise</span>
+                <span class="tag">YOLOv5</span>
+                <span class="tag">Streamlit</span>
+                <span class="tag">Flask</span>
+                <span class="tag">Databricks</span>
+                <span class="tag">Power BI</span>
+                <span class="tag">Tableau</span>
+                <span class="tag">Bubble.io</span>
             </div>
         </div>
         <div class="skill-group">
             <h4>Specializations</h4>
             <div class="tag-list">
+                <span class="tag">Machine Learning</span>
+                <span class="tag">NLP</span>
+                <span class="tag">Deep Learning</span>
+                <span class="tag">Computer Vision</span>
+                <span class="tag">Generative AI</span>
+                <span class="tag">LLMs</span>
                 <span class="tag">RAG</span>
                 <span class="tag">AI Agents</span>
-                <span class="tag">NLP</span>
-                <span class="tag">Computer Vision</span>
+                <span class="tag">Multi-Agent Systems</span>
+                <span class="tag">Prompt Engineering</span>
                 <span class="tag">Model Evaluation</span>
                 <span class="tag">Data Pipelines</span>
+                <span class="tag">Data Visualization</span>
             </div>
         </div>
         <div class="skill-group">
-            <h4>Tools & Platforms</h4>
+            <h4>Azure AI Services</h4>
             <div class="tag-list">
+                <span class="tag">Azure OpenAI</span>
+                <span class="tag">Azure AI Search</span>
+                <span class="tag">Azure AI Foundry</span>
                 <span class="tag">Azure AI Services</span>
-                <span class="tag">Databricks</span>
-                <span class="tag">Streamlit</span>
-                <span class="tag">Flask</span>
-                <span class="tag">Power BI</span>
-                <span class="tag">Bubble.io</span>
             </div>
         </div>
     </div>

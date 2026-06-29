@@ -4,9 +4,9 @@ title: Home
 ---
 
 <section class="hero">
-    <p class="hero-eyebrow">Data Science Consultant · Pune, India</p>
+    <p class="hero-eyebrow">AI Engineer &amp; Consultant · Pune, India</p>
     <h1 class="hero-headline">Building AI that works<br><em>in the real world.</em></h1>
-    <p class="hero-sub">I design and ship LLM pipelines, intelligent agents, and data systems that solve concrete problems — not just demos. 2+ years across consulting, product, and research.</p>
+    <p class="hero-sub">I design and ship LLM applications, intelligent agents, and machine learning solutions that solve concrete problems. 2.5+ years of experience across AI engineering and consulting.</p>
     <div class="hero-actions">
         <a href="/projects/" class="btn btn-primary">View Projects</a>
         <a href="/about/" class="btn btn-secondary">My Background</a>
@@ -19,17 +19,17 @@ title: Home
         <div class="card">
             <div class="card-icon">🧠</div>
             <h3>LLMs & Generative AI</h3>
-            <p>RAG pipelines, AI agents, document chatbots, and multi-agent workflows using LangChain, Flowise, and Azure AI Services.</p>
+            <p>RAG systems, AI agents, and multi-agent workflows using LangChain, LangGraph, Flowise, and Azure OpenAI / AI Services.</p>
         </div>
         <div class="card">
             <div class="card-icon">👁️</div>
             <h3>Machine Learning & Vision</h3>
-            <p>Classification, object detection (YOLOv5), NLP, and regression models applied to real QA, insurance, and recruitment problems.</p>
+            <p>Classification, object detection (YOLOv5), NLP, and regression models applied to manufacturing QA, insurance, and recruitment.</p>
         </div>
         <div class="card">
             <div class="card-icon">🔧</div>
             <h3>Data Pipelines & Evaluation</h3>
-            <p>Structured data extraction, supplier scoring, model evaluation methods, and cost validation from messy, unstructured sources.</p>
+            <p>Structured data extraction, supplier scoring, evaluation frameworks (Azure AI Foundry), and cost validation from Excel datasets.</p>
         </div>
     </div>
 </section>
@@ -39,9 +39,9 @@ title: Home
     <div class="featured-projects">
         <a href="/projects/" class="featured-card">
             <div class="featured-card-inner">
-                <span class="featured-tag">Python · LangChain · Hugging Face · Streamlit</span>
-                <h3>Research Assistant AI Agent</h3>
-                <p>End-to-end academic research automation — retrieves papers from arXiv, processes them through a RAG pipeline, and generates structured literature reviews on demand. Cuts hours of manual reading into a repeatable, queryable workflow.</p>
+                <span class="featured-tag">Python · LLMs · Streamlit · SQLite · Plotly</span>
+                <h3>AI Business Analyst Copilot</h3>
+                <p>An AI-powered business analytics platform using Streamlit, SQLite, Plotly, and LLMs for natural language querying and explainable SQL. Features root cause analysis, executive summaries, and contextual investigation workflows.</p>
                 <span class="featured-link">All projects →</span>
             </div>
         </a>
